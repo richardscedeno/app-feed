@@ -1,0 +1,6 @@
+{
+	"appId": "com.josecedeno.appfeed",
+	"appName": "appFeed",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
